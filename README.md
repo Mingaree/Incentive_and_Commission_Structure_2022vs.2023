@@ -1,7 +1,6 @@
 # Analysis of Incentive and Commission Structure: 2022 vs. 2023
 This report analyzes the changes in the incentive and commission structure between 2022 and 2023. The interactive Power BI dashboard can be accessed [here.](https://app.powerbi.com/view?r=eyJrIjoiZWJlOWMwOTctNzgxYi00MDYzLTk0ZTAtM2JjNzg5MzEwYTNmIiwidCI6ImZhOTlhNzFkLTU5OTgtNDdlNS1iYjE0LWFiZThlYzY1MTI5NyIsImMiOjEwfQ%3D%3D&pageName=ReportSectiond311ae8addd8046e0259)
 ![](https://github.com/user-attachments/assets/ce72b8ad-df93-49cd-88a7-212d6b262a68)
-![](https://github.com/user-attachments/assets/51e87cbd-686d-41b9-81c1-ae38ca7a2fa4)
 
 # Data Overview
 Revenue: Total profit in Q1 2022 vs. Q1 2023.  
